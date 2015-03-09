@@ -1,3 +1,3 @@
 #primer comiteo de seba
 #segundo comiteo de katherine
-# cualquier cosa (2)
+#cualquier cosa (2)
